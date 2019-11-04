@@ -1,5 +1,5 @@
 /********************************************************
-* This script creates the database named my_guitar_shop 
+* This script creates the database named MyGuitarShop 
 *********************************************************/
 USE master;
 GO
